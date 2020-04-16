@@ -16,3 +16,6 @@
 [submodule "lib/lufa"]
 	path = lib/lufa
 	url = https://github.com/qmk/lufa
+[submodule "keyboards/handwired/slavomir"]
+	path = keyboards/handwired/slavomir
+	url = git@github.com:moroz-slavomir/qmk-configs.git
